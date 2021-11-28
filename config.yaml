@@ -30,7 +30,7 @@ menu:
       url: /about
       weight: 4
 params:
-  author: Fastbyte01
+  author: AndersonHuang
   avatar: /images/me/avatar.jpg
   baidu_verification: ''
   bing_verification: ''
@@ -92,9 +92,9 @@ params:
     enable: no
     language: en
     notify: no
-    placeholder: your comments ...
+    placeholder: 这是一个奇怪的空间。。。。。
     verify: no
     visitor: yes
   yandex_verification: ''
 author:
-  name: Fastbyte01
+  name: AndersonHuang
