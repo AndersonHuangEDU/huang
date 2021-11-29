@@ -1,7 +1,7 @@
 ---
 title: "大火的元宇宙是什么？如何理解？"
-author:Anderson
-  name: Huang
+author: 
+name: AndersonHuang
 date: '2021-03-10'
 output: html_document
 series: Hugo 101
