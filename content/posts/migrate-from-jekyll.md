@@ -15,11 +15,12 @@ editor_options:
   chunk_output_type: inline
 ---
 
+
 # 元宇宙前传：《雪崩》
 
-1992 年， Neal Stephenson的科幻小说《Snow Crash》 中提出 了 “metaverse（ 元宇宙， 汉译本译为“超元域”）”和“化身（Avatar） ”这两个概念。 书中情节发生在一个现实人类通过VR设备与虚拟人共同生活在一个虚拟空间的未来设定中。
+![雪崩](https://gitee.com/ZhuangMengYuan/blog-image/blob/master/1.jpg)
+1992 年， Neal Stephenson的科幻小说《Snow Crash》 中提出了 “metaverse（ 元宇宙， 汉译本译为“超元域”）”和“化身（Avatar） ”这两个概念。 书中情节发生在一个现实人类通过VR设备与虚拟人共同生活在一个虚拟空间的未来设定中。
 
-![雪崩](http://gitee.com/ZhuangMengYuan/blog-image/blob/master/1.jpg)
 
 
 ### 情节欣赏：
@@ -30,11 +31,13 @@ editor_options:
 
 ### 元宇宙进化史：
 
-![《元宇宙进化史》](https://gitee.com/ZhuangMengYuan/blog-image/blob/master/2.jpg)
+![History of Metaverse](https://gitee.com/ZhuangMengYuan/blog-image/blob/master/2.jpg)
+
 #### 《 Second Life》 ： 第一个现象级的虚拟世界
 原代虚拟系统发布于2003年，它拥有更强的*世界编辑功能与发达的虚拟经济系统*，吸引了大量企业与教育机构。开发团队称它不是一个游戏， “**没有可以制造的冲突， 没有人为设定的目标**”， 人们可以在其中社交、 购物、 建造、 经商。    在Twitter诞生前，BBC、 路透社、CNN等报社将《SecondLife》作为发布平台，IBM曾在游戏中购买过地产，建立自己的销售中心，瑞典等国家在游戏中建立了自己的大使馆， 西班牙的政党在游戏中进行辩论。
 
 ### 2019-2021人类社会虚拟化临界点：
+
 ![2021：元宇宙元年？](https://gitee.com/ZhuangMengYuan/blog-image/blob/master/3.jpg)
 #### **疫情加速**
 新冠疫情隔离政策下，全社会上网时长大幅增长，“宅经济”快速发展。
@@ -60,11 +63,11 @@ editor_options:
 想象你住在《动物森友会》里的一个岛上，每天打工做任务，并且出售自己设计的家具和服装，用挣来的钱叫了一份外卖，还买了一个虚拟艺人演唱会的票。在演唱会上你认识了几个朋友，并相约在线下见面…
 
 #### *总结*
-![元宇宙知识图谱](https://gitee.com/ZhuangMengYuan/blog-image/blob/master/6.jpg）
+![元宇宙知识图谱](https://gitee.com/ZhuangMengYuan/blog-image/blob/master/6.jpg)
 
 
 ### 包含元宇宙关键词的知识图谱系列：
-![元宇宙知识图谱](https://gitee.com/ZhuangMengYuan/blog-image/blob/master/7.jpg）
+![元宇宙知识图谱](https://gitee.com/ZhuangMengYuan/blog-image/blob/master/7.jpg)
 
     ▾ <root>/
         ▾ images/
