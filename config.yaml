@@ -1,7 +1,7 @@
 baseURL: https://example.com
 languageCode: en
 defaultContentLanguage: en
-title: Huang
+title: AndersonHuang的个人博客
 theme: KeepIt
 paginate: 12
 enableEmoji: yes
@@ -29,6 +29,7 @@ menu:
     - name: About
       url: /about
       weight: 4
+   
 params:
   author: AndersonHuang
   avatar: /images/me/avatar.jpg
